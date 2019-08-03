@@ -8,6 +8,18 @@ body {
     background-color: black;
 }
 
+.cv_title {
+    color: blue;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
 aside {
-    background-color: antiquewhite;
+    color: aliceblue;
 }
