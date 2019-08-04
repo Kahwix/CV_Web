@@ -14,14 +14,43 @@ a:hover {
 
 /* header */ 
 
+header {
+    margin-bottom: 10rem;
+}
+
+.title {
+    color: hsl(201,100%,70%);
+    text-align: center;
+    font-size: 3rem;
+}
+
+.title_info {
+    color: hsl(201,100%,70%);
+    text-align: center;
+}
+
+.hdp {
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+
+
 
 
 /* unique attribut */
 
 #avatar {
     float: left;
-    margin-right: 2rem;
+    margin-left: 10rem;
 }
+
+#MAP {
+    width: 3rem;
+    height: 2rem;
+}
+
+
+
 
 /* main */
 
@@ -33,14 +62,34 @@ a:hover {
 }
 
 .contenair {
-    background-color: blue;
     with: 50rem;
     height: 50rem;
 }
 
 .bordertitle {
-    background-color: red;
+    background-color: hsl(201,100%,70%);
     width: 50rem;
-    height: 5rem;
-    margin-bottom: 12rem;
+    height: 2rem;
+    margin-bottom: 10rem;
+}
+
+.aside_title {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.section_title {
+    color: hsl(201,100%,70%);
+    text-align: center;
+}
+
+.blbl {
+    color: hsl(0, 0%, 100%);
+}
+
+
+/* unique attribut */
+
+#name {
+    margin-bottom: 10rem;
 }
